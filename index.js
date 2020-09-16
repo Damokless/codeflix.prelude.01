@@ -1,0 +1,1 @@
+console.log("Hello world ou bonjour le monde parce que je suis français enfaite")
