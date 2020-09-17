@@ -27,3 +27,4 @@ console.log(decapitalize('Woonan'))
 console.log(decapitalize('El Drago'))
 
 // j'ai pas réussis a split la string alors j'attends la correction pour voir comment faire ¯\_(ツ)_/¯
+// edit : Ma version et bien aussi
