@@ -10,7 +10,7 @@ function capitalize(str = '', restToLoweropt=false) {
             sentence += String.fromCharCode(code)
         }
         else{
-                if (i==1 && code >= 65 && code <= 90) {
+                if (i>=1 && code >= 65 && code <= 90) {
                     sentence += String.fromCharCode(code + 32)
                 } else {
                     sentence += String.fromCharCode(code)
