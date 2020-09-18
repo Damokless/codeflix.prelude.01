@@ -10,7 +10,7 @@ function kebabCase(str='') {
             sentence += add
             sentence += String.fromCharCode(code + 32)
 
-        }else{
+        }else {
             sentence += String.fromCharCode(code)
         }
     }
