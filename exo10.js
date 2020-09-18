@@ -1,7 +1,7 @@
 function first(str='', len=1) {
 
-    word = str.slice(0 ,len)
-    
+    word = str.substr(0, len)
+
     return word
 }
 
