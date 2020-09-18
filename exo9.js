@@ -1,7 +1,6 @@
 function charAt(str='', position) {
-    myArray = str.split('')
 
-    sentence = myArray[position]
+    sentence = str.charAt(position)
 
     return sentence
 }
